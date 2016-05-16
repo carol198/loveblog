@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"footer",
+				"footer.scss"
+			],
+			[
+				"page",
+				"pages/"
+			],
+			[
+				"hea",
+				"header.scss"
+			],
+			[
+				"float",
+				"float"
+			],
+			[
+				"main",
+				"mainmenu	(index.html)"
+			],
+			[
+				"flo",
+				"floatright	(index.html)"
+			],
+			[
+				"be",
+				"bebas___-webfont.ttf"
+			],
+			[
+				"beb",
+				"bebas___-webfont.woff"
+			],
+			[
+				"base",
+				"base/"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wid",
+				"width	(index.html)"
+			],
+			[
+				"ma",
+				"materialize"
+			],
+			[
+				"mai",
+				"materialize-src/"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sty",
+				"style	(font-awesome.min.css)"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"25",
+				"25px	(bootstrap.min.css)"
+			],
+			[
+				"rg",
+				"rgba(255,255,255,.15	(bootstrap.min.css)"
+			],
+			[
+				"ban",
+				"background-repeat"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"s",
+				"sec-2.jpg	w:1440 h:960"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"bord",
+				"border	(grid-system.css)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"C",
+				"cursive"
+			],
+			[
+				"co",
+				"col-5"
+			],
+			[
+				"col",
+				"col-7	(grid-system.css)"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"col-",
+				"col-4	(grid-system.css)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"caja",
+				"cajaF	(main.css)"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"col-1",
+				"col-12	(grid-system.css)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"clss",
+				"class"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"lin",
+				"link	(index.html)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pi",
+				"pipeline-classic.jpg	w:320 h:320"
+			],
+			[
+				"on",
+				"on-taking-pictures.jpg	w:320 h:320"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"cal",
+				"class	Attr"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/estudiante/Desktop/love/sass/styles.scss",
+		"/Users/estudiante/Desktop/love/sass/main.css",
+		"/Users/estudiante/Desktop/kane/css/main.scss",
+		"/Users/estudiante/Desktop/kane/index.html",
+		"/Users/estudiante/Desktop/kane/css/main.css",
+		"/Users/estudiante/Desktop/Problema 8/index.html",
+		"/Users/estudiante/Desktop/laboratoria/backyard/css/main.scss",
+		"/Users/estudiante/Desktop/laboratoria/backyard/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/backyard/app.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/js/common-scripts.js",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/css/adventure-time-theme.css",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/dashboard.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/login.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/gallery.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/progress.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/form_component.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/blank.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/basic_tables.html",
+		"/Users/estudiante/Desktop/laboratoria/dashboard/buttons.html",
+		"/Users/estudiante/Desktop/usertesting360/index.html",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/index.html",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/blog-item.html",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/about-us.html",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/css/font-awesome.min.css",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/blog.html",
+		"/Users/estudiante/Desktop/laboratoria/Flat_theme/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/laboratoria/Problemas/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/Problemas/index.html",
+		"/Users/estudiante/Desktop/laboratoria/Problemas/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/laboratoria/Problema 5/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/laboratoria/Problema 5/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/Problema 5/index.html",
+		"/Users/estudiante/Desktop/laboratoria/Problema 5/css/bootstrap.css.map",
+		"/Users/estudiante/Desktop/laboratoria/problema/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/laboratoria/problema/css/icomoon.css",
+		"/Users/estudiante/Desktop/laboratoria/problema/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/problema/index.html",
+		"/Users/estudiante/Desktop/laboratoria/Whatsapp/index.html",
+		"/Users/estudiante/Desktop/usertesting360/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/usertesting360/css/icomoon.css",
+		"/Users/estudiante/Desktop/usertesting360/css/main.css",
+		"/Users/estudiante/Desktop/usertesting360/css/font-awesome.min.css",
+		"/Users/estudiante/Desktop/usertesting360/css/queries.css",
+		"/Users/estudiante/Desktop/usertesting360/css/animate.css",
+		"/Users/estudiante/Desktop/laboratoria/responsive-blog/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/responsive-blog/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/responsive-blog/index.html",
+		"/Users/estudiante/Desktop/laboratoria/landing/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/landing/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/landing/index.html",
+		"/Users/estudiante/Desktop/laboratoria/cinema/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/landing/css/style.css",
+		"/Users/estudiante/Desktop/laboratoria/colores/main.css",
+		"/Users/estudiante/Desktop/laboratoria/colores/index.html",
+		"/Users/estudiante/Desktop/laboratoria/escuela-box/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/escuela-box/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/escuela-box/index.html",
+		"/Users/estudiante/Desktop/laboratoria/portfolio/css/creative.css",
+		"/Users/estudiante/Desktop/laboratoria/portfolio/css/bootstrap.css",
+		"/Users/estudiante/Desktop/laboratoria/portfolio/css/animate.min.css",
+		"/Users/estudiante/Desktop/laboratoria/portfolio/index.html",
+		"/Users/estudiante/Desktop/laboratoria/portfolio/css/bootstrap.min.css",
+		"/Users/estudiante/Downloads/EjercicioEcomunidad-master/css/main.css",
+		"/Users/estudiante/Downloads/EjercicioEcomunidad-master/index.html",
+		"/Users/estudiante/Desktop/laboratoria/ecomunidad/index.html",
+		"/Users/estudiante/Desktop/ecomunidadC/css/utilities.css",
+		"/Users/estudiante/Desktop/ecomunidadC/css/grid-system.css",
+		"/Users/estudiante/Desktop/ecomunidadC/css/main.css",
+		"/Users/estudiante/Desktop/ecomunidadC/index.html",
+		"/Users/estudiante/Desktop/ecomunidadC/PAG-final.txt",
+		"/Users/estudiante/Desktop/ecomunidadC/PAG-final-css.txt",
+		"/Users/estudiante/Desktop/laboratoria/ecomunidad/css/grid.css",
+		"/Users/estudiante/Desktop/laboratoria/ecomunidad/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/ecomunidad/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/ecomunidad/css/utilities.css",
+		"/Users/estudiante/Desktop/laboratoria/cinema/css/utilities.css",
+		"/Users/estudiante/Desktop/laboratoria/cinema/css/style.css",
+		"/Users/estudiante/Desktop/laboratoria/cinema/index.html",
+		"/Users/estudiante/Desktop/laboratoria/cinema/font-awesome/css/font-awesome.css",
+		"/Users/estudiante/Desktop/laboratoria/grid-system/css/style.css",
+		"/Users/estudiante/Desktop/laboratoria/grid-system/css/grid-system.css",
+		"/Users/estudiante/Desktop/laboratoria/grid-system/index.html",
+		"/Users/estudiante/Desktop/laboratoria/primer-layout/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/primer-layout/index.html",
+		"/Users/estudiante/Desktop/laboratoria/plantilla/main.css",
+		"/Users/estudiante/Desktop/laboratoria/plantilla/index.html",
+		"/Users/estudiante/Desktop/laboratoria/cancha/index.html",
+		"/Users/estudiante/Desktop/laboratoria/cancha/main.css",
+		"/Users/estudiante/Desktop/laboratoria/casa/main.css",
+		"/Users/estudiante/Desktop/laboratoria/casa/index.html",
+		"/Users/estudiante/Desktop/laboratoria/float/index_float.html",
+		"/Users/estudiante/Desktop/laboratoria/float/css/main_float.css",
+		"/Users/estudiante/Desktop/laboratoria/float/css/main.css",
+		"/Users/estudiante/Desktop/laboratoria/float/index.html",
+		"/Users/estudiante/Desktop/laboratoria/margin-padding/index.html",
+		"/Users/estudiante/Desktop/laboratoria/margin-padding/main.css",
+		"/Users/estudiante/Desktop/laboratoria/lunes14/css/main.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fondo",
+			"150px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
