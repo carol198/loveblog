@@ -5808,17 +5808,36 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-fixsingle fix {
+section .fix {
   display: inline-block;
-  float: left; }
+  float: left;
+  border: 1px solid gray; }
+  section .fix img {
+    width: 100%; }
+section .fix1 {
+  padding-left: 10px; }
+  section .fix1 h3 {
+    color: #cd2e24; }
 
-main imaH img {
-  margin: 200px;
-  padding-left: 200px;
-  display: inline-block; }
+section .icono {
+  margin: 20px 0px 0px -10px; }
+
+.imaH {
+  width: 100%; }
 
 a:hover {
   text-decoration: none; }
+
+li {
+  list-style: none; }
+
+section {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.fondoheader {
+  background-color: #ff8f58;
+  color: white; }
 
 header {
   marign: auto 0;
@@ -5832,15 +5851,17 @@ header {
       padding: 10px;
       font-size: 20px; }
       header ul li a {
-        color: #cd2e24; }
+        color: gray; }
         header ul li a:hover {
-          color: black; }
+          color: #cd2e24; }
   header h1 {
-    color: #cd2e24; }
+    color: #cd2e24;
+    margin-left: 60px; }
     header h1 span {
       color: #eea19c; }
 
-footer {
-  background-color: #E67030; }
+footer .fondofooter {
+  background-color: #ff8f58;
+  color: white; }
 
 /*# sourceMappingURL=main.css.map */

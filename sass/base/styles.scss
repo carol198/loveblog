@@ -1,16 +1,27 @@
-fixsingle{
-	fix{
+section{
+	.fix{
 		display:inline-block;
 		float:left;
+		border:1px solid gray;
+		img{
+			width:100%;
+		}
 	}
+	.fix1{
+		padding-left:10px;
+		h3{
+			color:#cd2e24;
+		}
+	}	
 }
-main{
-		imaH{
-			img{
-				margin:200px;
-				padding-left:200px;
-				display:inline-block;
-				}
+section{
+		.icono{
+		margin:20px 0px 0px -10px;
 
-			}
+		}
+
 }
+.imaH{
+	width:100%;
+}
+

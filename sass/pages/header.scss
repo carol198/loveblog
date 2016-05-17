@@ -9,16 +9,18 @@ header{
 			margin-left:0px;
 			padding:10px;
 			font-size:20px;
+
 			a{
-				color:$color;
+				color:gray;
 				&:hover{
-					color: black;
+					color: $color;
 				}
 			}
 		}
 	}
 	h1{
 		color:$color;
+		margin-left:60px;
 		span{
 			color:lighten($color,30%);
 		}
