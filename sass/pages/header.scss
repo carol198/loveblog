@@ -6,7 +6,7 @@ header{
 		margin-left:100px;
 		li{
 			display:inline-block;
-			margin-left:0px;
+			margin-left:15px;
 			padding:10px;
 			font-size:20px;
 
@@ -20,7 +20,7 @@ header{
 	}
 	h1{
 		color:$color;
-		margin-left:60px;
+		margin-left:80px;
 		span{
 			color:lighten($color,30%);
 		}

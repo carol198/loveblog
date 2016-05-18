@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -5847,7 +5848,7 @@ header {
     margin-left: 100px; }
     header ul li {
       display: inline-block;
-      margin-left: 0px;
+      margin-left: 15px;
       padding: 10px;
       font-size: 20px; }
       header ul li a {
@@ -5856,12 +5857,43 @@ header {
           color: #cd2e24; }
   header h1 {
     color: #cd2e24;
-    margin-left: 60px; }
+    margin-left: 80px; }
     header h1 span {
       color: #eea19c; }
 
 footer .fondofooter {
   background-color: #ff8f58;
   color: white; }
+
+section .ab1 img {
+  border: 10px solid white;
+  float: left;
+  padding: -10px;
+  margin-left: 0px;
+  margin-top: 0px; }
+section .ab1 p {
+  padding-left: 20px; }
+section .ab2 {
+  border-left: 10px solid #cd2e24; }
+  section .ab2 p {
+    color: #cd2e24;
+    margin-left: 10px; }
+section .ab3 h3 {
+  color: #cd2e24;
+  float: left;
+  margin-top: 10px; }
+section .ab3 .post {
+  background-image: url(../images/post_border_bg.png);
+  background-size: cover;
+  display: inline-block;
+  width: 75px;
+  height: 15px;
+  margin-left: 14px;
+  padding-left: 15px;
+  margin-bottom: 35px;
+  padding-bottom: 30px; }
+
+section .ab4 img {
+  border: 2px solid white; }
 
 /*# sourceMappingURL=main.css.map */

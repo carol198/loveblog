@@ -1,0 +1,50 @@
+section{
+	.ab1{
+		img{
+			border:10px solid $colorfooter;
+			float:left;
+			padding:-10px;
+			margin-left: 0px;
+			margin-top: 0px;
+		}
+		p{
+			padding-left:20px;
+		}
+	}
+	.ab2{
+		p{
+			color:$color;
+			margin-left: 10px;
+
+		}
+		border-left:10px solid $color;
+	}
+	.ab3{
+		h3{
+			color:$color;
+			float:left;
+			margin-top: 10px;
+
+		}
+		.post{
+			background-image:url(../images/post_border_bg.png);
+			background-size:cover;
+			display:inline-block;
+			width:75px;
+			height: 15px;
+			margin-left: 14px;
+			padding-left: 15px;
+			margin-bottom: 35px;
+			padding-bottom:30px;
+			
+		}
+
+	}
+}
+section{
+	.ab4{
+			img{
+				border:2px solid white;
+			}
+		}
+}
