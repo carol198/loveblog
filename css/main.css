@@ -5809,6 +5809,8 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+/*fuentes*/
+/*colores*/
 section .fix {
   display: inline-block;
   float: left;
@@ -5892,8 +5894,49 @@ section .ab3 .post {
   padding-left: 15px;
   margin-bottom: 35px;
   padding-bottom: 30px; }
+section .ab3 li {
+  padding-left: 0px; }
 
 section .ab4 img {
-  border: 2px solid white; }
+  border: 1px solid white; }
+
+.mainmenu {
+  marign: auto 0;
+  width: 100%; }
+  .mainmenu ul {
+    float: left;
+    margin-left: 100px; }
+    .mainmenu ul li {
+      display: inline-block;
+      margin-left: 0px;
+      padding: 10px;
+      font-size: 16px; }
+      .mainmenu ul li a {
+        color: gray; }
+        .mainmenu ul li a:hover {
+          color: #cd2e24;
+          background-color: #fdf4f3; }
+  .mainmenu h1 {
+    color: #cd2e24;
+    margin-left: 80px; }
+    .mainmenu h1 span {
+      color: #eea19c; }
+
+.marcoimagen img {
+  width: 200px;
+  height: 200px;
+  padding: 2px; }
+  .marcoimagen img:hover {
+    border: 2px solid red; }
+
+.marcotexto {
+  border: 2px solid gray;
+  width: 200px;
+  height: 80px;
+  padding: 2px; }
+  .marcotexto h4 {
+    font-weight: bold; }
+  .marcotexto h6 {
+    color: #cd2e24; }
 
 /*# sourceMappingURL=main.css.map */
